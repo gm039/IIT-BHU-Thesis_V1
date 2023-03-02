@@ -1,5 +1,5 @@
-# IIT-BHU-Thesis by Gourav Modanwal
-
+# PhD/M.Tech/B.Tech ThesisIndian Institute of Technology (BHU), Varanasi by Gourav Modanwal
+ 
 This repository provides a LaTeX template for writing a thesis that meets the formatting requirements of the Indian Institute of Technology (BHU), Varanasi. The template includes several pre-defined sections such as the title page, abstract, acknowledgments, and table of contents. It is customizable and can be adapted to meet specific formatting requirements.
 
 Contents:
@@ -22,3 +22,4 @@ You may cite below.
   url = {https://github.com/gm039/IIT-BHU-Thesis_V1},
   note = {[Accessed: Mar. 02, 2023]}
 }
+ 
